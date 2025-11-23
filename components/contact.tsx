@@ -60,7 +60,7 @@ export default function Contact() {
         <div className="space-y-4">
           <h2 className="text-2xl font-semibold">Contact Us</h2>
           <p className="text-muted-foreground">
-            We'd love to hear from you. Reach out for partnerships, support, or
+            We&apos;d love to hear from you. Reach out for partnerships, support, or
             anything in between.
           </p>
 
